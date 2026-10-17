@@ -163,7 +163,7 @@ Key study areas include:
 | **Performance** | No independently validated numerical benchmark is published |
 | **Security** | Not applicable to the educational simulator study |
 | **Impact** | Strengthens understanding of processor pipelines, instruction dependencies, and hazard mitigation |
-| **Repository** | [View available repositories](https://github.com/ArunGopal-R?tab=repositories) |
+| **Repository** | [View available repositories](https://github.com/Arun5916?tab=repositories) |
 
 **Engineering focus:** Low-level systems understanding, instruction flow, hardware-software interaction, and analytical problem-solving.
 
@@ -193,7 +193,7 @@ Planned and demonstrated feature areas include:
 | **Performance** | Formal performance testing has not been recorded |
 | **Security** | Authentication, authorization, and data-protection controls should be evaluated against the final implementation |
 | **Impact** | Organizes common library workflows in one desktop interface |
-| **Repository** | [View available repositories](https://github.com/ArunGopal-R?tab=repositories) |
+| **Repository** | [View available repositories](https://github.com/Arun5916?tab=repositories) |
 
 **Engineering focus:** Object-oriented programming, GUI design, structured data handling, event-driven interactions, and maintainable application organization.
 
